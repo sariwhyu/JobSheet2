@@ -296,3 +296,11 @@ rfid.PCD_StopCrypto1(); // stop encryption on PCD
 ```
 
 ## Hasil
+
+https://github.com/sariwhyu/JobSheet2/blob/main/Blinksentuh.mp4
+
+https://github.com/sariwhyu/JobSheet2/blob/main/Tapkartu2.mp4
+
+https://github.com/sariwhyu/JobSheet2/blob/main/VID20221128102530.mp4
+
+https://github.com/sariwhyu/JobSheet2/blob/main/VID20221205100358.mp4
