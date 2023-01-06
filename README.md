@@ -14,7 +14,7 @@
 - [Jobsheet4.4 - ESP Now+IOT](https://github.com/sariwhyu/TugasNo4)
 
 
-# JobSheet 2 PROTOKOL KOMUNIKASI DAN SENSOR
+# JobSheet 2 - Protokol Komunikasi dan Sensor
 
 ## Alat & Bahan
 
